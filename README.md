@@ -21,15 +21,7 @@ streamlit run web.py --server.port 80
  http://localhost:80
 ```
 Выберите файл с вашего ПК и ждите компиляции.
-Модель была до обучена, потому ничего лишнего вам делать не придётся. Иногда может быть некорректный вывод, загрузити картинку повторно для изменения результата.
-
-![image](https://github.com/Vokoon/Laba1_Akimov/assets/120046709/e89c4caa-35fd-4d4c-883f-4b9dcef1d073)
-
-![image](https://github.com/Vokoon/Laba1_Akimov/assets/120046709/0a92dac4-699e-4b17-8e2b-ecba38904bb5)
+Модель была до обучена, потому ничего лишнего вам делать не придётся. Иногда может быть некорректный вывод, загрузите картинку повторно для изменения результата.
 
 Для корректной работы streamlit веб-фреймворка может потребоваться наличие python версии не ниже 3.9.12.
 Иногда сайт может не запустится с первого раза или же код скажет что вам нехватает конкретной библиотеки, потому вам может понадобится загрузить их по новой.
-
-# Источники!:
-https://github.com/Koldim2001/Image_captioning/tree/main?tab=readme-ov-file
-https://nbviewer.org/github/Koldim2001/Image_captioning/blob/main/image_captioning_no_attention.ipynb
