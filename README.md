@@ -2,7 +2,7 @@
 Вэб сервис был реализован  с помощью веб-фреймворка Streamlit предназначенного для простого развертывания моделей.
 Для начала склонируйте к себе этот репозиторий:
 ```Ruby
-git clone https://github.com/Koldim2001/Image_captioning.git
+!git clone https://github.com/kl47s/Kirill-Lab2.git
 ```
 А теперь перейдите с помощью команды cd в созданную папку Factory_detection
 ```Ruby
